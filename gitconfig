@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = apcbrasil@gmail.com
+	name = ana brasil
